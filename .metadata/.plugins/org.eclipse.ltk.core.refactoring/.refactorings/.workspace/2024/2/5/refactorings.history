@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;qualityStream.udemy.curso&apos;" deleteContents="true" description="Delete resource &apos;qualityStream.udemy.curso&apos;" element1="/qualityStream.udemy.curso" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706797212338"/>
+</session>
